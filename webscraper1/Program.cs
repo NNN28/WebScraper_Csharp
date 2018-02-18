@@ -21,7 +21,7 @@ namespace webscraper1
             crawlerweb();
             Console.ReadLine();
         }
-       /*private static async Task startcwaulerAsync()
+       private static async Task startcwaulerAsync()
         {
             var url = "https://www.automobile.tn/neuf/bmw.3/";
             var httpclient = new HttpClient();
@@ -68,18 +68,18 @@ namespace webscraper1
             public string Price { get => price; set => price = value; }
             public string Imgurl { get => imgurl; set => imgurl = value; }
             public string Link { get => link; set => link = value; }
-        }*/
-        private static async void crawlerweb()
+        }
+     /*   private static async void crawlerweb()
 
         {
             var searchword= "iphone 8 plus";
             var url = "https://www.amazon.com.br/s/ref=nb_sb_noss/141-1509725-5841359?__mk_pt_BR=ÅMÅŽÕÑ&url=search-alias%3Daps&field-keywords="+searchword;
-         /*   HttpClient httpclient = new HttpClient();
+           HttpClient httpclient = new HttpClient();
              var html = await httpclient.GetStringAsync(url);
              HtmlDocument htmldoc = new HtmlDocument();
              htmldoc.LoadHtml(html);
 
-            var res = htmldoc.DocumentNode.Descendants();*/
+            var res = htmldoc.DocumentNode.Descendants();
             HttpWebRequest httpreq =(HttpWebRequest) WebRequest.Create(url);
             HttpWebResponse Response = (HttpWebResponse) httpreq.GetResponse();
            StreamReader sr = new StreamReader(Response.GetResponseStream());
@@ -105,7 +105,7 @@ namespace webscraper1
 
 
 
-        }
+        }*/
 
     }
 }
