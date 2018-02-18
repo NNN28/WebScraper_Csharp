@@ -1,0 +1,15 @@
+C:\Users\AH INFO\source\repos\webscraper1\webscraper1\bin\Debug\webscraper1.exe.config
+C:\Users\AH INFO\source\repos\webscraper1\webscraper1\bin\Debug\webscraper1.exe
+C:\Users\AH INFO\source\repos\webscraper1\webscraper1\bin\Debug\webscraper1.pdb
+C:\Users\AH INFO\source\repos\webscraper1\webscraper1\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\AH INFO\source\repos\webscraper1\webscraper1\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\AH INFO\source\repos\webscraper1\webscraper1\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\AH INFO\source\repos\webscraper1\webscraper1\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\AH INFO\source\repos\webscraper1\webscraper1\obj\Debug\webscraper1.csproj.App.config
+C:\Users\AH INFO\source\repos\webscraper1\webscraper1\obj\Debug\webscraper1.csprojResolveAssemblyReference.cache
+C:\Users\AH INFO\source\repos\webscraper1\webscraper1\obj\Debug\webscraper1.csproj.CoreCompileInputs.cache
+C:\Users\AH INFO\source\repos\webscraper1\webscraper1\obj\Debug\webscraper1.exe
+C:\Users\AH INFO\source\repos\webscraper1\webscraper1\obj\Debug\webscraper1.pdb
+C:\Users\AH INFO\source\repos\webscraper1\webscraper1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\AH INFO\source\repos\webscraper1\webscraper1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\AH INFO\source\repos\webscraper1\webscraper1\bin\Debug\HtmlAgilityPack.xml
